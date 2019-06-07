@@ -1,3 +1,5 @@
+//!  Utility functions for doing simple things in a `const` function.
+
 mod u128_func;
 mod u16_func;
 mod u32_func;

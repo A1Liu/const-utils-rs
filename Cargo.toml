@@ -3,5 +3,7 @@ name = "const-utils"
 version = "0.1.0"
 authors = ["Albert Liu <albertymliu@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "Utility functions for doing simple things in a `const` function."
 
 [dependencies]
